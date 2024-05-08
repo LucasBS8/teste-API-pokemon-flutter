@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Bulbasaur",
+        "tipo": "Planta",
+        "habilidade": "Esporo",
+        "descricao": "Um Pokémon semente que carrega uma flor nas costas. Ela se alimenta da energia solar e armazena água em seu bulbo.",
+        "imagem": "assets/images/001.png"
+    },
+    {
+        "id": 4,
+        "nome": "Charmander",
+        "tipo": "Fogo",
+        "habilidade": "Chama Ardente",
+        "descricao": "Um Pokémon lagarto que tem uma chama na cauda. Diz-se que a chama é um indicador da saúde do Charmander.",
+        "imagem": "assets/images/004.png"
+    },
+    {
+        "id": 7,
+        "nome": "Squirtle",
+        "tipo": "Água",
+        "habilidade": "Jato de Água",
+        "descricao": "Um Pokémon tartaruga que pode atirar jatos de água de seus canhões. Diz-se que ele é um bom nadador.",
+        "imagem": "assets/images/007.png"
+    },
+    {
+        "id": 25,
+        "nome": "Pikachu",
+        "tipo": "Elétrico",
+        "habilidade": "Estática",
+        "descricao": "Um Pokémon rato conhecido por suas bochechas elétricas. Diz-se que ele é muito leal ao seu treinador.",
+        "imagem": "assets/images/025.png"
+    },
+    {
+        "id": 133,
+        "nome": "Eevee",
+        "tipo": "Normal",
+        "habilidade": "Adaptabilidade",
+        "descricao": "Um Pokémon raposa conhecido por sua capacidade de evoluir para várias formas diferentes.",
+        "imagem": "assets/images/133.png"
+    },
+    {
+        "id": 150,
+        "nome": "Mewtwo",
+        "tipo": "Psíquico",
+        "habilidade": "Pressão",
+        "descricao": "Um Pokémon clone criado a partir do DNA de Mew. Diz-se que ele é um dos Pokémon mais poderosos do mundo.",
+        "imagem": "assets/images/150.png"
+    },
+    {
+        "id": 373,
+        "nome": "Salamence",
+        "tipo": "Dragão",
+        "habilidade": "Intimidar",
+        "descricao": "Um Pokémon dragão conhecido por sua velocidade e força. Diz-se que ele pode voar mais rápido que um jato.",
+        "imagem": "assets/images/373.png"
+    },
+    {
+        "id": 448,
+        "nome": "Lucario",
+        "tipo": "Lutador",
+        "habilidade": "Aura",
+        "descricao": "Um Pokémon bípede conhecido por sua capacidade de usar a aura para lutar. Diz-se que ele é muito leal ao seu treinador.",
+        "imagem": "assets/images/448.png"
+    },
+    {
+        "id": 658,
+        "nome": "Greninja",
+        "tipo": "Água",
+        "habilidade": "Torrente",
+        "descricao": "Um Pokémon ninja conhecido por sua velocidade e agilidade. Diz-se que ele é capaz de se mover em velocidades supersônicas.",
+        "imagem": "assets/images/658.png"
+    },
+    {
+        "id": 888,
+        "nome": "Zacian",
+        "tipo": "Fada",
+        "habilidade": "Belicoso",
+        "descricao": "Um Pokémon lendário conhecido por sua espada sagrada. Diz-se que ele é o guardião da região de Galar.",
+        "imagem": "assets/images/888.png"
+    }
+]
